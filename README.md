@@ -1,8 +1,8 @@
 FancyCoverFlow
-==============
 
-THIS PROJECT IS NO LONGER MAINTAINED!
-=====================================
+fork from https://github.com/davidschreiber/FancyCoverFlow
+
+import to android studio project 
 
 ## What is FancyCoverFlow?
 FancyCoverFlow is a flexible Android widget providing out of the box view transformations to give your app a unique look and feel. Curious about what FancyCoverFlow can do for you? Check out the FancyCoverFlow examples on Google Play.
